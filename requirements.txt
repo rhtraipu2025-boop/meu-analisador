@@ -2,3 +2,4 @@ numpy
 matplotlib
 gunicorn
 flask
+pandas
